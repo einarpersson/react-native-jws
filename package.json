@@ -26,7 +26,9 @@
   "dependencies": {
     "jwa": "git+https://github.com/brianloveswords/node-jwa.git",
     "react-native-jwa": "git+https://github.com/JohanObrink/react-native-jwa.git",
-    "safe-buffer": "^5.0.1"
+    "readable-stream": "^3.3.0",
+    "safe-buffer": "^5.0.1",
+    "util": "^0.12.0"
   },
   "devDependencies": {
     "semver": "^5.1.0",
